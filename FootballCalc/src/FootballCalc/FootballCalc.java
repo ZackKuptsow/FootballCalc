@@ -1,3 +1,5 @@
+/*Zack Kuptsow, zkups@udel.edu 
+ * CISC181-32, Quiz 1, Prof. Gibbons, TA Andrew Gross */
 package FootballCalc;
 
 import java.util.Scanner;
